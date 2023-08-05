@@ -1,7 +1,8 @@
 # HackGems-All-India-Women-Hackathon-2023
 ROOTS 
 
-Your One-Stop Solution for Happy and Thriving Plants 
+Your One-Stop Solution for Happy and Thriving Plants
+
 Are you a passionate plant enthusiast struggling to provide the best care for your green companions? Look no further! ROOTS is there for comprehensive plant care knowledge and assistance.
 
 The Struggle is Real
